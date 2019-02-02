@@ -1,0 +1,11 @@
+Start Development Server
+    gatsby develop
+
+Create Production Build
+    gatsby Build
+
+Serve Production Build Locally
+    gatsby serve
+
+CLI Commands
+    gatbsy --help
