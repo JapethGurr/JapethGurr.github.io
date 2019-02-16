@@ -47,9 +47,9 @@ const Layout = (props: LayoutProps) => {
           </div>
 
           {/* Footer */}
-          <Segment inverted vertical style={{ position: "absolute", bottom: 0, width: "100%" }}>
+          <Segment inverted vertical className="footer">
             <Container textAlign="center">
-              <p>Powered with <Icon name="heart" /> by Gatsby 2.0</p>
+              <p>Copyright © 2019 Sharp Loris Games</p>
             </Container>
           </Segment>
         </Sidebar.Pusher>

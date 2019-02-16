@@ -2,7 +2,7 @@ import { configure } from "@storybook/react";
 import { setOptions } from "@storybook/addon-options";
 
 setOptions({
-  name: 'My website',
+  name: 'Sharp Loris Games',
   downPanelInRight: true
 });
 

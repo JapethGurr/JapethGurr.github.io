@@ -10,9 +10,9 @@ const NotFoundPage = () =>
       >
       <Grid.Column>
         <Grid.Row style={{textAlign: "center"}}>
-          <Icon name="marker" size="huge"/>
-          <Header as="h1">You are here!</Header>
-          <Header as="h2">But nothing found for you #404</Header>
+          <Icon name="exclamation triangle" size="huge"/>
+          <Header as="h1">Not Found (404)</Header>
+          <Header as="h2">Turn back, there's nothing for you here.</Header>
         </Grid.Row>
       </Grid.Column>
     </Grid>;
